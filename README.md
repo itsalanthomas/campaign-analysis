@@ -1,10 +1,10 @@
-# 📈Marketing Campaign Performance Dashboard
+# 📈 Marketing Campaign Performance Dashboard
 
 This project demonstrates a complete data analytics workflow: from raw CSV ingestion using Python, to SQL analysis in PostgreSQL, to interactive visualizations in Looker Studio. It simulates a real-world scenario for evaluating the effectiveness of digital marketing campaigns.
 
 ---
 
-##Project Overview
+## 🚀 Project Overview
 
 **Goal:**  
 Provide marketing stakeholders with an interactive dashboard that reveals which campaigns are generating the highest ROI, engagement, and revenue across channels.
