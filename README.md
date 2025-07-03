@@ -63,10 +63,13 @@ Provide marketing stakeholders with an interactive dashboard that reveals which 
 ---
 
 ## 📂 Repository Structure
--**dashboard** - url and pdf of dashboard
--**data** - raw csv file
--**scripts** - python + SQL scripts to load and analyze data
--**README.** - summary of project
+dashboard/ url for live version & PDF of dashboards
+
+data/ — Datasets raw
+
+scripts/ — Python + SQL scripts to load and analyze data 
+
+README.md — Project overview and documentation
 
 ---
 
